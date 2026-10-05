@@ -47,6 +47,7 @@ Based on the theoretical framework and prior observations, we predict:
   - Reference square: 9.00 sq.mm (constant)
   - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
   - This range includes squares both smaller and larger than the reference
+  - random
 
 ### Procedure
 
